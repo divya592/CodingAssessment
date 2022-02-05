@@ -1,2 +1,2 @@
 # CodingAssessment
-This repository contains the code of coding assessment program.
+This repository contains the codes of coding assessment program.
